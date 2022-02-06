@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 -->
 # 💫Android Developer :
 📱I currently work as an Android Developer.
+
 💻Apart from the 9-5, you can find me immersed in upskilling Python, Laravel and other areas.
+
 🚀Blockchain Enthusiast. (Definitely love an insightful discussion regarding the topics!)
+
 ⚡I aim to create productive awareness about tech in people around me.
+
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adityaa.codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaa-codes) 
