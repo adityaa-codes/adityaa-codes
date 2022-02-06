@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 -->
 # 💫Android Developer :
 📱I currently work as an Android Developer.
-
 💻Apart from the 9-5, you can find me immersed in upskilling Python, Laravel and other areas.
-
 🚀Blockchain Enthusiast. (Definitely love an insightful discussion regarding the topics!)
-
 ⚡I aim to create productive awareness about tech in people around me.
 
 
